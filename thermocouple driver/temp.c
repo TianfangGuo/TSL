@@ -36,6 +36,7 @@ void tempCapture(void){
      * for system-wide use
      */
 
+    //there's two cs pins for each SPI channel(??) need to figure out how to work those
     //valuing on MISO pins should already be digital values
     tempOne = spi0_d1;
     tempTwo = spi1_d1;

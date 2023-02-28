@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/thermocouple_driver.dir/main.c.o CMakeFiles/thermocouple_driver.dir/temp.c.o -o thermocouple_driver.exe -Wl,--out-implib,libthermocouple_driver.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
