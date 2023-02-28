@@ -1,0 +1,1 @@
+https://www.bacpeters.com/2020/01/25/configuring-the-beaglebone-black-gpio-pins-permanently/
